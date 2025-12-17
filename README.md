@@ -64,7 +64,7 @@ Here are some highlights from projects I’ve worked on:
 - Gym membership management  
 - Restaurant stock & employee management  
 - Insurance advisor CRM  
-*All built with Laravel & MySQL* :contentReference[oaicite:9]{index=9}
+*All built with Laravel & MySQL*
 
 *(And many more internal business apps across domains.)*
 
