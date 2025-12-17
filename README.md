@@ -68,6 +68,13 @@ Here are some highlights from projects I’ve worked on:
 
 *(And many more internal business apps across domains.)*
 
+## 🎯Current Focus
+
+- Writing cleaner, more maintainable Laravel code
+- Improving deployment and server setups for PHP apps
+- Learning **Java & Spring Boot** to broaden backend perspective
+- Experimenting with low-cost, high-performance setups for blogs and content sites
+
 ---
 
 ## 📈 Stats at a Glance
