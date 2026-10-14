@@ -8,7 +8,7 @@ Backend artisan with 8+ years of experience building **robust, scalable, and mai
 
 ## 🚀 About Me
 
-I'm a **Full Stack Developer** based in **Junagadh, Gujarat, India**, working remotely since 2016. I build custom web applications and APIs primarily using Laravel/NodeJS/MySQL/Postgres and related technologies.  
+I'm a **Full Stack Developer** based in **Junagadh, Gujarat, India**. I build custom web applications and APIs primarily using Laravel/NodeJS/MySQL/Postgres and related technologies.  
 Over the years, I’ve worked across industries such as **Logistics, Education, Healthcare, Chemicals, and more**. I also enjoy **mentoring developers** and sharing knowledge.
 
 ---
